@@ -13,3 +13,5 @@ Berikut adalah Komponen yang disajikan dalam dashboard Looker Studio
 - Top 10 Transaksi dan Profit Provinsi
 - Top 5 Cabang Rating dengan Rating Transaction Terendah
 - Geo Map Provinsi
+
+Penjelasan kode secara singkat di youtube : https://youtu.be/9oClrr069bA 
